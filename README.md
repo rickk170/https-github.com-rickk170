@@ -4,4 +4,6 @@ Meu nome é Henrique Artur Coelho
 - Estou me desnvolvendo na linguagem JavaScript
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-  ![descrição do GIF](https://gifdb.com/images/thumbnail/harry-potter-mention-the-pincers-1dwh4r7ql4eoqe3i.gif)
+  ![descrição do GIF](https://www.quirkbooks.com/wp-content/uploads/2016/10/patronusheader.gif)
+
+ 
